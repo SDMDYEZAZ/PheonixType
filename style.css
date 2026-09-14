@@ -10385,9 +10385,9 @@ h3 {
 }.phoenix-hero-title {
     position: absolute;
     top: 50%;
-    left: 42%;
+    left: 20%;
     transform: translate(-50%, -50%);
-    font-size: 42px;
+    font-size: 50px;
     margin: 0;
     white-space: nowrap;
 }
