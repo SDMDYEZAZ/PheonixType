@@ -10382,4 +10382,12 @@ h3 {
 .phoenix-level-card.cleared {
     border-color: #4ce6a8 !important;
     box-shadow: 0 0 18px rgba(76, 230, 168, 0.35) !important;
+}.phoenix-hero-title {
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+    font-size: 42px;
+    margin: 0;
+    white-space: nowrap;
 }
