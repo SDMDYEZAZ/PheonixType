@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sdmdyezaz.github.io/my-typing-website/sitemap.xml
+Sitemap: https://sdmdyezaz.github.io/PheonixType/sitemap.xml
